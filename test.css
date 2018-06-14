@@ -3976,3 +3976,5 @@ div.c-virtual_list__sticky_container{ background-color: #222; }
 
 /*DM上のとこ*/
 div.c-virtual_list__scroll_container{ background-color: #222; }
+
+.c-virtual_list__item { background-color: #222; }
